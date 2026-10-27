@@ -1,0 +1,143 @@
+{
+  "values": {
+    "dragonsurvival:mech_dragon": {
+      "neoforge:conditions": [
+        {
+          "type": "dragonsurvival:registered",
+          "registry": "dragonsurvival:dragon_species",
+          "value": "dragonsurvival:mech_dragon"
+        }
+      ],
+      "neoforge:value": [
+        {
+          "items": "minecraft:iron_ingot",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 2.0,
+            "eat_seconds": 1.2
+          }
+        },
+        {
+          "items": "minecraft:copper_ingot",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 1.5,
+            "eat_seconds": 1.0
+          }
+        },
+        {
+          "items": "minecraft:gold_ingot",
+          "properties": {
+            "nutrition": 5,
+            "saturation": 3.0,
+            "eat_seconds": 1.0
+          }
+        },
+        {
+          "items": "minecraft:netherite_ingot",
+          "properties": {
+            "nutrition": 10,
+            "saturation": 8.0,
+            "eat_seconds": 1.5
+          }
+        },
+        {
+          "items": "minecraft:redstone",
+          "properties": {
+            "nutrition": 2,
+            "saturation": 1.0,
+            "eat_seconds": 0.6
+          }
+        },
+        {
+          "items": "minecraft:redstone_block",
+          "properties": {
+            "nutrition": 8,
+            "saturation": 4.0,
+            "eat_seconds": 1.4
+          }
+        },
+        {
+          "items": "minecraft:coal",
+          "properties": {
+            "nutrition": 2,
+            "saturation": 1.0,
+            "eat_seconds": 0.8
+          }
+        },
+        {
+          "items": "minecraft:charcoal",
+          "properties": {
+            "nutrition": 2,
+            "saturation": 1.0,
+            "eat_seconds": 0.8
+          }
+        },
+        {
+          "items": "minecraft:quartz",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 1.5,
+            "eat_seconds": 0.9
+          }
+        },
+        {
+          "items": "minecraft:amethyst_shard",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 2.0,
+            "eat_seconds": 0.9
+          }
+        },
+        {
+          "items": "minecraft:iron_block",
+          "properties": {
+            "nutrition": 12,
+            "saturation": 6.0,
+            "eat_seconds": 2.0
+          }
+        },
+        {
+          "items": "minecraft:copper_block",
+          "properties": {
+            "nutrition": 9,
+            "saturation": 4.0,
+            "eat_seconds": 1.8
+          }
+        },
+        {
+          "items": "minecraft:gold_block",
+          "properties": {
+            "nutrition": 15,
+            "saturation": 8.0,
+            "eat_seconds": 2.0
+          }
+        },
+        {
+          "items": "minecraft:netherite_block",
+          "properties": {
+            "nutrition": 20,
+            "saturation": 12.0,
+            "eat_seconds": 2.5
+          }
+        },
+        {
+          "items": "#c:ingots",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 1.5,
+            "eat_seconds": 1.0
+          }
+        },
+        {
+          "items": "#c:raw_materials",
+          "properties": {
+            "nutrition": 2,
+            "saturation": 1.0,
+            "eat_seconds": 1.1
+          }
+        }
+      ]
+    }
+  }
+}
